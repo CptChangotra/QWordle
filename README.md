@@ -1,4 +1,4 @@
-# 🎯 QWorldr - Quantum Wordle Game
+# 🎯 QWordle - Quantum Wordle Game
 
 [![C](https://img.shields.io/badge/C-99-blue.svg)](https://en.wikipedia.org/wiki/C99)
 [![License](https://img.shields.io/badge/License-Academic-blue.svg)](#license)
@@ -248,9 +248,6 @@ make init          # Initialize build environment
 - **Simplified set**: 2,000+ common words
 - **Full English**: 100,000+ words
 
-## 📄 License
-
-This project is developed for academic and educational purposes as part of coursework in programming and data structures.
 
 ## 🎓 Educational Value
 
@@ -261,9 +258,6 @@ This project demonstrates:
 - **Software Engineering**: Modular design and testing
 - **Game Development**: Interactive application design
 
-## 👨‍💻 Author
-
-Developed with ❤️ as an exploration of classic game mechanics enhanced with quantum-inspired gameplay elements.
 
 ---
 
