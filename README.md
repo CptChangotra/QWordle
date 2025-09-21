@@ -1,4 +1,4 @@
-# 🎯 QWorld - Quantum Wordle Game
+# 🎯 QWorldr - Quantum Wordle Game
 
 [![C](https://img.shields.io/badge/C-99-blue.svg)](https://en.wikipedia.org/wiki/C99)
 [![License](https://img.shields.io/badge/License-Academic-blue.svg)](#license)
